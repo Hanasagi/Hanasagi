@@ -5,6 +5,8 @@ I love to create stuff that will probably ever be used except by me. Also to try
 
 <h2 style="font-weight:bold">Current project</h2>
 <a style="margin-left: 15px;" href="https://github.com/Hanasagi/Mekura-Website">Mekura</a>
+<a style="margin-left: 15px;" href="https://github.com/Hanasagi/Newcastle">Newcastle (Refactor soon)</a>
+
 
 <h2 style="font-weight:bold">Miscellaneous</h2>
 

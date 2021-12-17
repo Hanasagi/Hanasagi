@@ -1,6 +1,6 @@
 <h2>Hi</h2>
 
-I'm a junior developer that love anime/manga a tad too much.</br>
+I'm a frontend developer that love anime/manga a tad too much.</br>
 I love to create stuff that will probably never be used except by me. Also to try and learn new things, because I want to.
 
 <h2 style="font-weight:bold">Current project</h2>
